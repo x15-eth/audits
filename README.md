@@ -4,6 +4,8 @@ I'm an independent Web3 Security Researcher competing on Cantina, Sherlock, C4, 
 
 For collabs or security audits, reach out on X [@0x15_eth](https://x.com/0x15_eth).
 
+Email: vantur.agency@gmail.com
+
 ## Contests
 ### 2025
 
